@@ -1,1 +1,16 @@
-{ "tasks": [], "lastSync": null }
+{
+  "tasks": [
+    {
+      "id": "mq6bkxc0p3vz",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAFlAIAYAAAAA==",
+      "title": "To do",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "sze.ding@alceon.com.au",
+      "created": 1780990200000
+    }
+  ],
+  "lastSync": "2026-06-09T07:30:00.000Z"
+}
