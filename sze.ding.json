@@ -1,6 +1,17 @@
 {
   "tasks": [
     {
+      "id": "mqvhi40w3kp9",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAF_2MJdAAAAA==",
+      "title": "Artifacts in Claude Code turn on July 3 — here's what to do before then",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "no-reply@email.claude.com",
+      "created": 1782511800000
+    },
+    {
       "id": "mqrbckn4x7p2",
       "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAF3hPL9QAAAA==",
       "title": "To Do",
@@ -34,5 +45,5 @@
       "created": 1780990200000
     }
   ],
-  "lastSync": "2026-06-25T22:10:00.000Z"
+  "lastSync": "2026-06-26T22:10:00.000Z"
 }
