@@ -1,6 +1,83 @@
 {
   "tasks": [
     {
+      "id": "mtm37igfr1lp",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAFONEqWAAAAA==",
+      "title": "RE: Training - Morris TO-DO list using AI as well as for Morris emails and list of outstandings....lets discuss....THX",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "Areti.Karounis@alceon.com.au",
+      "created": 1788473943087
+    },
+    {
+      "id": "mtm37iggpv10",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAEEIUZQAAAAA==",
+      "title": "I Hired an AI to Do My Chores. Now I Maintain the AI.",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "hello@every.to",
+      "created": 1788473943088
+    },
+    {
+      "id": "mtm37ighjdar",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgACnROalQAAAA==",
+      "title": "🔔 ASX to fall | Trump to do ‘whatever it takes’ on Iran | Big government hurting nation: BCA",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "updates@newsletter.afr.com",
+      "created": 1788473943089
+    },
+    {
+      "id": "mtm37igiuorc",
+      "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgABdSn6WAAAAA==",
+      "title": "OpenAI Has Some Catching Up to Do",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "hello@every.to",
+      "created": 1788473943090
+    },
+    {
+      "id": "mtm37igjt7mg",
+      "emailId": "AAMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAAAAACfZC0TCOIOTqzOyZjy6-nBBwC-LUyIZQtbS6omq1dzD-_qAAAAAAEMAAC-LUyIZQtbS6omq1dzD-_qAABzM4IHAAA=",
+      "title": "How to do AI-powered product discovery sprints",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "departmentofproduct@substack.com",
+      "created": 1788473943091
+    },
+    {
+      "id": "mtm37igk9jpg",
+      "emailId": "AAMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAAAAACfZC0TCOIOTqzOyZjy6-nBBwC-LUyIZQtbS6omq1dzD-_qAAAAAAEMAAC-LUyIZQtbS6omq1dzD-_qAABSZ5ptAAA=",
+      "title": "TO DO",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "joel.deakin@alceon.com.au",
+      "created": 1788473943092
+    },
+    {
+      "id": "mtm37iglod7i",
+      "emailId": "AAMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAAAAACfZC0TCOIOTqzOyZjy6-nBBwC-LUyIZQtbS6omq1dzD-_qAAAAAAEMAAC-LUyIZQtbS6omq1dzD-_qAAApX0IgAAA=",
+      "title": "The new ways to do AI-powered user / market research explored",
+      "priority": "Medium",
+      "cat": "Email",
+      "done": false,
+      "fromEmail": true,
+      "emailFrom": "departmentofproduct@substack.com",
+      "created": 1788473943093
+    },
+    {
       "id": "mtankif152gx",
       "emailId": "AQMkAGQ1YjY3YmEyLWIxOWUtNDY5MS04MTU5LTg2NWE0YTYwOTc1MQBGAAADn2QtEwjiDk6szsmY8uv5wQcAvy1MiGULW0uqJqtXcw--qgAAAgEMAAAAvy1MiGULW0uqJqtXcw--qgAHLEiVKAAAAA==",
       "title": "To do",
@@ -100,5 +177,5 @@
       "created": 1780990200000
     }
   ],
-  "lastSync": "2026-09-02T22:15:00.000Z"
+  "lastSync": "2026-09-03T22:19:03.089Z"
 }
